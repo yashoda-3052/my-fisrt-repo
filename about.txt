@@ -1,4 +1,0 @@
-Name:P Yashoda
-Course:Bsc-Cs
-GitHub encourages collaboration by allowing you to track changes with the benefit of version control. 
-I learned how to create a repository and commit changes .
